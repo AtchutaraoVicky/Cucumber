@@ -24,6 +24,7 @@ public class GoogleStepDef {
 	   if(actT.contains("Google")) {
 		   System.out.println("TC IS PASS");
 		   System.out.println("Atchutarao");
+		   System.out.println("vicky";
 	   }
 	}
 
